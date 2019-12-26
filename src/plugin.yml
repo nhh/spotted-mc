@@ -1,0 +1,25 @@
+name: "SpottedMc"
+version: "0.0.1-SNAPSHOT"
+author: "Niklas Hanft"
+main: "com.niklashanft.spottedmc.SpottedMcPlugin"
+api-version: "1.14"
+website: ""
+commands:
+  follow:
+    description: ""
+    usage: "/follow <targetPlayer>"
+  unfollow:
+    description: ""
+    usage: "/unfollow"
+  delspot:
+    description: ""
+    usage: "/delspot meinName"
+  gospot:
+    description: ""
+    usage: "/gospot meinName"
+  setspot:
+    description: ""
+    usage: "/setspot meinName"
+  spots:
+    description: ""
+    usage: "/setspot meinName"
